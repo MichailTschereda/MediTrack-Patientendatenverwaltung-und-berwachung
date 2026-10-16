@@ -1,8 +1,6 @@
 # Online-Abstimmungssystem für Bürgerbefragungen
-
-Eine sichere PlaWorm für Online-Abstimmungen,
-bei der Bürger über städtische Entscheidungen oder Projekte abs<mmen können.
-
+Eine sichere Platform für Online-Abstimmungen,
+bei der Bürger über städtische Entscheidungen oder Projekte abstimmen können.
 
 # Funktionale Anforderungen:
 - Abstimmungsübersicht: Bürger können sich eine Liste der aktuellen Abstimmungen ansehen, inklusive
@@ -15,3 +13,9 @@ bei der Bürger über städtische Entscheidungen oder Projekte abs<mmen können.
   B. durch E-Mail-Bestättigung oder 2-Faktor-Authentifizierung).
 
 # nicht funktionale Anforderungen 
+<br/><br/><br/>
+
+# Git
+
+## Was ist Git und warum sollte es verwendet werden?
+Git ist ein Versionskontrollsystem, das jede Änderung an Dateien oder Quellcode nachverfolgt, speichert und somit die Zusammenarbeit an Projekten erleichtert.
