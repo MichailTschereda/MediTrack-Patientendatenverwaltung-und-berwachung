@@ -19,3 +19,9 @@ bei der Bürger über städtische Entscheidungen oder Projekte abstimmen können
 
 ## Was ist Git und warum sollte es verwendet werden?
 Git ist ein Versionskontrollsystem, das jede Änderung an Dateien oder Quellcode nachverfolgt, speichert und somit die Zusammenarbeit an Projekten erleichtert.
+
+## Grundlegende Git-Befehle
+- git init: Erstellt ein neues, leeres Git-Repository in deinem aktuellen Ordner.
+- Git add: Fügt geänderte Dateien zur Staging-Area hinzu, um sie für den nächsten Commit vorzubereiten.
+- Git commit: Speichert die vorbereiteten Änderungen dauerhaft als neuen Snapshot (mit einer kurzen Beschreibung) in der lokalen Historie
+- Git push: Lädt deine lokalen Commits hoch auf das entfernte Server-Repository
